@@ -1,6 +1,5 @@
 # hello-world
-just another repository
-- this is markdown.
-## Right
----
+## hello-breash
+## 程序员的自我修养
+## 码代码
 `void int goTo(){}`
